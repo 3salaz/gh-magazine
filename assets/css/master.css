@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    background: #F7CB46;
+}
+nav img{
+    width:421px;
+    height: 77px;
+}
+.dropdown-item{
+    background: #F7CB46;
+}
+nav ul{
+    padding-top: 1rem;
+    margin-left: 40rem;
+}
+nav button{
+    align-items: center;
+    border-radius: 3px;
+}
