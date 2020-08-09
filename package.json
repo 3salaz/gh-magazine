@@ -1,11 +1,23 @@
 {
   "name": "ghmag",
   "version": "1.0.0",
-  "description": "",
+  "description": "Home for gameheads magazine",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3salaz/gh-magazine.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/3salaz/gh-magazine/issues"
+  },
+  "homepage": "https://github.com/3salaz/gh-magazine#readme",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
 }
